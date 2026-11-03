@@ -516,7 +516,7 @@ cd W8BDCR-IP-To-Router-Scanner
 
 ### Author
 **W8BDCR**
-- GitHub: [@W8Team](https://github.com/w8bdcr-official)
+- GitHub: [@W8BDCR](https://github.com/w8bdcr-official)
 
 ### Special Thanks
 - Python community for excellent libraries
