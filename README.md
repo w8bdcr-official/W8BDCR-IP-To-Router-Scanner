@@ -1,17 +1,21 @@
+<p align="center">
+  <a href="https://github.com/w8bdcr-official/W8BDCR-IP-To-Router-Scanner"><img src="assets/logo.png" width="120" alt="W8BDCR Logo" /></a>
+</p>
+
 # W8IP-To Router 🚀
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-2.0-blue.svg)
-![Python](https://img.shields.io/badge/python-3.6+-green.svg)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20Termux-lightgrey.svg)
-![License](https://img.shields.io/badge/license-MIT-orange.svg)
+![Version](https://img.shields.io/badge/version-2.0-7c3aed.svg)
+![Python](https://img.shields.io/badge/python-3.6+-8b5cf6.svg)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20Termux-a78bfa.svg)
+![License](https://img.shields.io/badge/license-MIT-7c3aed.svg)
 
 **Advanced IP Scanner & Router Detection Tool**
 
 *Ultra-fast multi-threaded network scanner with comprehensive device information*
 
-[Features](#features) • [Installation](#installation) • [Usage](#usage) • [Screenshots](#screenshots) • [Credits](#credits)
+[Features](#features) • [Installation](#installation) • [Usage](#usage) • [Credits](#credits)
 
 </div>
 
@@ -29,7 +33,6 @@
 - [Usage](#usage)
 - [Examples](#examples)
 - [Output Information](#output-information)
-- [Screenshots](#screenshots)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
 - [Credits](#credits)
@@ -418,22 +421,6 @@ End IP: 192.168.1.1
 
 ---
 
-## 🖼️ Screenshots
-
-### Network Information Display
-Shows your complete network configuration including WiFi IP, gateway, and public IP.
-
-### Live Scanning Animation
-Real-time progress with spinning animation and device counter.
-
-### Device Details
-Comprehensive information for each discovered device with color coding.
-
-### Summary Report
-Complete scan statistics and device table.
-
----
-
 ## 🔧 Troubleshooting
 
 ### Common Issues
@@ -539,7 +526,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ```
 MIT License
 
-Copyright (c) 2025 W8BDCR
+Copyright (c) 2026 W8BDCR
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
